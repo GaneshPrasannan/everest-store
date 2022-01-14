@@ -1,0 +1,4 @@
+# Everest Store
+The project totally revolves around being able to make Linux unique to users. We all know that the web is the most portable platform of today. You can access a website from any device today. This can make us enhance the process of application browsing for our operating systems. GNU/Linux or specifically Arch Linux (as it is a Calinix Project),  misses a modern standardized easy-to-use software installation solution. So the motive is to create a uniform portable standard web application for browsing software applications online. All will be GNU/Linux application and our initial idea is to provide them installation instructions for the software. But yeah, in future, if we can, we'll provide downloadable binaries and system integrated packages for easier installation
+
+Made with ❤️ by Ganesh Prasannan.
